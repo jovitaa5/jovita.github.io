@@ -33,7 +33,7 @@
               <listitem name="transcript" value="false" group="sidebar" />
             </listitems>
           </optionlist>
-          <option name="time_enabled" value="true">
+          <option name="time_enabled" value="false">
             <options>
               <option name="time_format" value="elapsed" />
             </options>
